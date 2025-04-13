@@ -1,0 +1,44 @@
+html {
+    padding: 0 auto;
+    margin: 0 auto;
+    width: 100% ;
+}
+
+header {
+    padding-top: 1%;
+    background-color: darkkhaki;
+    width: 100%;
+}
+
+header h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+header p {
+    padding: 0.5% 5% 2% 5%;
+}
+
+.idea, .idea2 {
+    padding: 1% 5% 2% 5%;
+}
+
+.idea li {
+    padding-bottom: 0.5%;
+}
+
+.idea2 li {
+    padding-bottom: 0.5%;
+}
+
+.idea {
+    background-color: rgba(185, 185, 185, 0.9)
+}
+
+.idea2 {
+    background-color: rgba(51, 102, 0, 0.6);
+}
+
+footer {
+    text-align: center;
+}
