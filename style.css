@@ -202,4 +202,9 @@ footer {
         'top-box-a'
         'top-box-b';
     }
+
+    .info {
+        grid-template-columns: 1fr;
+        padding: 1.5rem;
+    }
 }
